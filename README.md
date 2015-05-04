@@ -43,7 +43,11 @@ cmd /c mklink "C:\Path\To\Source\File.txt" "C:\Path\To\Destination\File.txt"
 
 ## Which process listening on port?
 There's a native GUI for Windows:
-Start>>All Programs>>Accessories>>System Tools>>Resource Monitor (or Run resmon.exe)
+`resmon.exe`
+(or Start > All Programs > Accessories > System Tools > Resource Monitor)
+
+Then tab "Network", then "Listening Ports" accordian.
+
 (http://stackoverflow.com/a/23718720)
 
 ## Which process has file open?
