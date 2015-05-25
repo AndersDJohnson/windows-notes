@@ -60,7 +60,23 @@ Use [Handle], [Process Explorer], or [Process Hacker].
 
 ## Commands
 
-Get system architecture:
+### List processes
+
+```
+tasklist
+```
+```
+tasklist /FI "IMAGENAME  eq explorer.exe"
+```
+```
+get-process
+```
+```
+wmic process list
+```
+
+
+### Get system architecture
 ```
 wmic os get osarchitecture
 ```
