@@ -60,6 +60,8 @@ Use [Handle], [Process Explorer], or [Process Hacker].
 
 ## Commands
 
+* http://www.sprint.net.au/~terbut/usefulbox/msdoscmds.htm
+
 ### List processes
 
 ```
@@ -75,12 +77,17 @@ get-process
 wmic process list
 ```
 
-
 ### Get system architecture
 ```
 wmic os get osarchitecture
 ```
 
+### Touch file
+
+```
+copy %FILENAME% /B+ ,,/Y
+```
+(http://stackoverflow.com/a/7249328)
 
 
 [Process Explorer]: http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx
