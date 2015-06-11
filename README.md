@@ -84,7 +84,7 @@ wmic os get osarchitecture
 
 ### Touch file
 
-Powershell:
+PowerShell:
 ```
 $(Get-Item $FILENAME).LastWriteTime = $(Get-Date)
 ```
