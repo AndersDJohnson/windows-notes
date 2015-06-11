@@ -84,6 +84,11 @@ wmic os get osarchitecture
 
 ### Touch file
 
+Powershell:
+```
+$(Get-Item $FILENAME).LastWriteTime = $(Get-Date)
+```
+DOS:
 ```
 copy %FILENAME% /B+ ,,/Y
 ```
