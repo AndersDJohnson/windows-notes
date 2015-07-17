@@ -50,7 +50,12 @@ Then tab "Network", then "Listening Ports" accordian.
 
 (http://stackoverflow.com/a/23718720)
 
-## Which process has file open?
+## Which process has file open/locked?
+
+```
+openfiles
+```
+See [https://technet.microsoft.com/en-us/library/bb490961.aspx].
 
 Use [Handle], [Process Explorer], or [Process Hacker].
 
