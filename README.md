@@ -44,6 +44,7 @@ cmd /c mklink "C:\Path\To\Source\File.txt" "C:\Path\To\Destination\File.txt"
 ```
 dir c:\windows\ /aa /s /O-D
 ```
+http://superuser.com/a/545554
 
 ## Which process listening on port?
 There's a native GUI for Windows:
