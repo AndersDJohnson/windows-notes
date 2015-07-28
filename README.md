@@ -40,6 +40,10 @@ cmd /c mklink /d "C:\Path\To\Source\Folder" "C:\Path\To\Destination\Folder"
 cmd /c mklink "C:\Path\To\Source\File.txt" "C:\Path\To\Destination\File.txt"
 ```
 
+## Which files changed recently in a directory?
+```
+dir c:\windows\ /aa /s /O-D
+```
 
 ## Which process listening on port?
 There's a native GUI for Windows:
