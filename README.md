@@ -1,5 +1,5 @@
 # windows
-Windows notes
+Windows notes.
 
 ## Apps
 * [Process Explorer]
