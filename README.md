@@ -2,8 +2,11 @@
 Windows notes.
 
 ## Apps
-* [Process Explorer]
-* [Process Hacker]
+* Windows Sysinternals Suite
+  * [Process Explorer]
+  * [Handle]
+  * [PSFile] 
+* [Process Hacker] (a fork of Process Explorer)
 * ClipX: Clipboard manager
 * AltDrag: Drag windows like Linux
 * StrokeIt: Mouse gestures
@@ -62,7 +65,7 @@ openfiles
 ```
 See [https://technet.microsoft.com/en-us/library/bb490961.aspx].
 
-Use [Handle], [Process Explorer], or [Process Hacker].
+Use [Handle], [Process Explorer], [Process Hacker], or [PSFile] (supports network drives).
 
 
 ## Cleanup
@@ -108,3 +111,4 @@ copy %FILENAME% /B+ ,,/Y
 [Process Explorer]: http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx
 [Process Hacker]: http://processhacker.sourceforge.net/
 [Handle]: https://technet.microsoft.com/en-us/sysinternals/bb896655.aspx
+[PSFile]: https://technet.microsoft.com/en-us/sysinternals/bb897552.aspx
