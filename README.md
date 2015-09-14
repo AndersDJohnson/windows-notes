@@ -22,6 +22,8 @@ Windows notes.
 * Fiddler: Web debugging proxy
 * [clumsy](https://jagt.github.io/clumsy/index.html): network simulation (throttling, etc.)
 * [NirSoft Utils](http://www.nirsoft.net/utils/)
+* [Git for Windows](https://git-scm.com/)
+  * [Windows Credential Store for Git](http://gitcredentialstore.codeplex.com/)
 
 ## Tips
 
