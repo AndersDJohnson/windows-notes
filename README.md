@@ -1,4 +1,4 @@
-# windows
+# windows-notes
 Windows notes.
 
 ## Apps
