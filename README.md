@@ -97,13 +97,13 @@ wmic process list
 wmic os get osarchitecture
 ```
 
-### Touch file
+### Touch file timestamp
 
 PowerShell:
 ```
 $(Get-Item $FILENAME).LastWriteTime = $(Get-Date)
 ```
-DOS:
+MS-DOS:
 ```
 copy %FILENAME% /B+ ,,/Y
 ```
