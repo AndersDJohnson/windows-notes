@@ -33,7 +33,7 @@ Windows notes.
 
 ## PowerShell
 
-* [PowerShell-profile][]
+* [AndersDJohnson/PowerShell-profile][]
 
 ### Explorer PowerShell Prompt Here
 * http://www.hanselman.com/blog/IntroducingPowerShellPromptHere.aspx
@@ -119,4 +119,4 @@ copy %FILENAME% /B+ ,,/Y
 [Process Hacker]: http://processhacker.sourceforge.net/
 [Handle]: https://technet.microsoft.com/en-us/sysinternals/bb896655.aspx
 [PsFile]: https://technet.microsoft.com/en-us/sysinternals/bb897552.aspx
-[PowerShell-profile]: https://github.com/AndersDJohnson/PowerShell-profile
+[AndersDJohnson/PowerShell-profile]: https://github.com/AndersDJohnson/PowerShell-profile
