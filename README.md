@@ -31,25 +31,30 @@ Windows notes.
 * [http://www.howtogeek.com/howto/21462/](http://www.howtogeek.com/howto/21462/)
 * [http://www.askvg.com/how-to-disable-libraries-feature-in-windows-7/](http://www.askvg.com/how-to-disable-libraries-feature-in-windows-7/)
 
-## PowerShell Prompt Here
+## PowerShell
+
+* [PowerShell-profile][]
+
+### Explorer PowerShell Prompt Here
 * http://www.hanselman.com/blog/IntroducingPowerShellPromptHere.aspx
 
-## Symlinks (in PowerShell)
+### Symlinks
 
-### Directories
+#### Directories
 ```
 cmd /c mklink /d "C:\Path\To\Source\Folder" "C:\Path\To\Destination\Folder"
 ```
-### Files
+#### Files
 ```
 cmd /c mklink "C:\Path\To\Source\File.txt" "C:\Path\To\Destination\File.txt"
 ```
 
-## Which files changed recently in a directory?
+### Recent File Changes
 ```
 dir c:\windows\ /aa /s /O-D
 ```
 http://superuser.com/a/545554
+
 
 ## Which process listening on port?
 There's a native GUI for Windows:
@@ -114,3 +119,4 @@ copy %FILENAME% /B+ ,,/Y
 [Process Hacker]: http://processhacker.sourceforge.net/
 [Handle]: https://technet.microsoft.com/en-us/sysinternals/bb896655.aspx
 [PsFile]: https://technet.microsoft.com/en-us/sysinternals/bb897552.aspx
+[PowerShell-profile]: https://github.com/AndersDJohnson/PowerShell-profile
