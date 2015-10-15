@@ -22,6 +22,9 @@ Windows notes.
 * Fiddler: Web debugging proxy
 * [clumsy](https://jagt.github.io/clumsy/index.html): network simulation (throttling, etc.)
 * [NirSoft Utils](http://www.nirsoft.net/utils/)
+* [WinMerge](http://winmerge.org/): diff/merge
+* [KDiff3](http://kdiff3.sourceforge.net/): diff/merge
+* [WinDirStat](https://windirstat.info/): "disk usage statistics viewer and cleanup tool"
 * [Git for Windows](https://git-scm.com/)
   * [Windows Credential Store for Git](http://gitcredentialstore.codeplex.com/)
 
