@@ -28,6 +28,17 @@ Windows notes.
 * [Git for Windows](https://git-scm.com/)
   * [Windows Credential Store for Git](http://gitcredentialstore.codeplex.com/)
 
+## Hotkeys
+
+See also:
+* http://windows.microsoft.com/en-us/windows/keyboard-shortcuts#keyboard-shortcuts=windows-7
+* http://autohotkey.com/board/topic/1738-comprehensive-list-of-windows-hotkeys/
+
+Name | Hotkey
+--- | ---
+Explorer: Focus search bar | Ctrl+E (or Ctrl+K)
+
+
 ## Tips
 
 ### Disable "Libraries"
