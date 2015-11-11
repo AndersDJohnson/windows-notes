@@ -1,6 +1,10 @@
 # windows-notes
 Windows notes.
 
+## See Also
+* [AndersDJohnson/mac-notes][mac-notes]
+* [AndersDJohnson/unix-notes][unix-notes]
+
 ## Apps
 * Windows Sysinternals Suite
   * [Process Explorer]
@@ -134,3 +138,5 @@ copy %FILENAME% /B+ ,,/Y
 [Handle]: https://technet.microsoft.com/en-us/sysinternals/bb896655.aspx
 [PsFile]: https://technet.microsoft.com/en-us/sysinternals/bb897552.aspx
 [AndersDJohnson/PowerShell-profile]: https://github.com/AndersDJohnson/PowerShell-profile
+[unix-notes]: https://github.com/AndersDJohnson/unix-notes
+[mac-notes]: https://github.com/AndersDJohnson/mac-notes
