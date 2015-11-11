@@ -4,6 +4,7 @@ Windows notes.
 ## See Also
 * [AndersDJohnson/mac-notes][mac-notes]
 * [AndersDJohnson/unix-notes][unix-notes]
+* [AndersDJohnson/PowerShell-profile](https://github.com/AndersDJohnson/PowerShell-profile)
 
 ## Apps
 * Windows Sysinternals Suite
