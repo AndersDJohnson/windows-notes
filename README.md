@@ -57,6 +57,12 @@ Explorer: Focus search bar | Ctrl+E (or Ctrl+K)
 ### Explorer PowerShell Prompt Here
 * http://www.hanselman.com/blog/IntroducingPowerShellPromptHere.aspx
 
+### Run Executable
+
+```
+& C:\path\to\the.exe
+```
+
 ### Symlinks
 
 #### Directories
