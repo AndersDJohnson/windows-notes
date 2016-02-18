@@ -93,6 +93,9 @@ Then tab "Network", then "Listening Ports" accordian.
 ## Which process has file open/locked?
 
 ```
+openfiles /Local ON
+```
+```
 openfiles
 ```
 See [https://technet.microsoft.com/en-us/library/bb490961.aspx].
