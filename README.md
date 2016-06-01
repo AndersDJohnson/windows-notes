@@ -112,10 +112,11 @@ Use [Handle], [Process Explorer], [Process Hacker], or [PsFile] (supports networ
 
 ### UNIX map
 
-||UNIX||Windows||
-|cat|type|
-|ls|dir|
-|grep|findstr|
+UNIX|Windows
+--- | ---
+cat|type
+ls|dir
+grep|findstr
 
 ### List processes
 
