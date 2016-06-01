@@ -98,7 +98,7 @@ openfiles /Local ON
 ```
 openfiles
 ```
-See [https://technet.microsoft.com/en-us/library/bb490961.aspx].
+See https://technet.microsoft.com/en-us/library/bb490961.aspx.
 
 Use [Handle], [Process Explorer], [Process Hacker], or [PsFile] (supports network drives).
 
