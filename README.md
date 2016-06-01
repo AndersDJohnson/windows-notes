@@ -117,6 +117,8 @@ UNIX|Windows
 cat|type
 ls|dir
 grep|findstr
+top|[#list-processes](#list-processes)
+touch|[#touch-file-timestamp](#touch-file-timestamp)
 
 ### List processes
 
