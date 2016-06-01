@@ -110,6 +110,13 @@ Use [Handle], [Process Explorer], [Process Hacker], or [PsFile] (supports networ
 
 * http://www.sprint.net.au/~terbut/usefulbox/msdoscmds.htm
 
+### UNIX map
+
+||UNIX||Windows||
+|cat|type|
+|ls|dir|
+|grep|findstr|
+
 ### List processes
 
 ```
