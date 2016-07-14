@@ -32,6 +32,7 @@ Windows notes.
 * [WinDirStat](https://windirstat.info/): "disk usage statistics viewer and cleanup tool"
 * [Git for Windows](https://git-scm.com/)
   * [Windows Credential Store for Git](http://gitcredentialstore.codeplex.com/)
+* [Active Directory Explorer (AD Explorer)](https://technet.microsoft.com/en-us/sysinternals/adexplorer.aspx?f=255&MSPPError=-2147217396)
 
 ## Hotkeys
 
@@ -151,6 +152,13 @@ MS-DOS:
 copy %FILENAME% /B+ ,,/Y
 ```
 (http://stackoverflow.com/a/7249328)
+
+## Active Directory
+
+Info for user:
+```
+net user /domain anders
+```
 
 
 [Process Explorer]: http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx
