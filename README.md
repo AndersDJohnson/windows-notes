@@ -159,7 +159,9 @@ Info for user:
 ```
 net user /domain anders
 ```
-
+```
+gpresult /user johna10 /v
+```
 
 [Process Explorer]: http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx
 [Process Hacker]: http://processhacker.sourceforge.net/
