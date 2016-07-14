@@ -160,7 +160,7 @@ Info for user:
 net user /domain anders
 ```
 ```
-gpresult /user johna10 /v
+gpresult /user anders /v
 ```
 
 [Process Explorer]: http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx
